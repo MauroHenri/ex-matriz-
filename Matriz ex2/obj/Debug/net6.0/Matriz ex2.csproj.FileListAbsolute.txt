@@ -1,0 +1,15 @@
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\bin\Debug\net6.0\Matriz ex2.exe
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\bin\Debug\net6.0\Matriz ex2.deps.json
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\bin\Debug\net6.0\Matriz ex2.runtimeconfig.json
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\bin\Debug\net6.0\Matriz ex2.dll
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\bin\Debug\net6.0\ref\Matriz ex2.dll
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\bin\Debug\net6.0\Matriz ex2.pdb
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\Matriz ex2.csproj.AssemblyReference.cache
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\Matriz ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\Matriz ex2.AssemblyInfoInputs.cache
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\Matriz ex2.AssemblyInfo.cs
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\Matriz ex2.csproj.CoreCompileInputs.cache
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\Matriz ex2.dll
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\ref\Matriz ex2.dll
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\Matriz ex2.pdb
+C:\Users\gktlf\OneDrive - Bayer\Personal Data\2022 Pessoal\C#\VisualStudio Projects\Matriz ex2\Matriz ex2\obj\Debug\net6.0\Matriz ex2.genruntimeconfig.cache
